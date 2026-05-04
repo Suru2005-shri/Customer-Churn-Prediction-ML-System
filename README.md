@@ -1,4 +1,4 @@
-# ** CUSTOMER CHURN PREDICTION ML SYSTEM 🚀**
+# ** CUSTOMER CHURN PREDICTION ML SYSTEM **
 ---
 
 
@@ -25,18 +25,6 @@ Customer Data → Preprocessing → Feature Engineering → ML Model → Predict
 
 ---
 
-## **⚙️ B. Tech Stack Options**
----
-
-### **🟢 Option A (Basic Level)**
-
-Python • Pandas • Logistic Regression
-
-### **🟡 Option B (Intermediate Level)**
-
-Python • Pandas • NumPy • Scikit-learn • Plotly • Streamlit
-
-### **🔴 Option C (Advanced Level — USED IN THIS PROJECT 🚀)**
 
 Python • Pandas • NumPy • Scikit-learn • Joblib • Plotly • Streamlit • Matplotlib • Seaborn • FastAPI
 
